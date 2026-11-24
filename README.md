@@ -15,4 +15,4 @@ IT student and backend developer based in the Philippines. I build REST APIs, re
 * **Tools:** Git, Docker, VS Code, Eclipse
 
 ### Contact
-* **Email:** your.email@example.com
+* **Email:** vonbas26@gmail.com
