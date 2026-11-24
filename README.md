@@ -8,7 +8,6 @@
 
 ### Tech Stack
 
-| Category | Technologies |
 | :--- | :--- |
 | **Languages** | <kbd><img src="https://cdn.simpleicons.org/python" width="15" height="15" /> Python</kbd> <kbd><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="15" height="15" /> Java</kbd> <kbd><img src="https://cdn.simpleicons.org/html5" width="15" height="15" /> HTML5</kbd> <kbd><img src="https://cdn.simpleicons.org/css/1572B6" width="15" height="15" /> CSS3</kbd> |
 | **Frameworks** | <kbd><img src="https://cdn.simpleicons.org/fastapi" width="15" height="15" /> FastAPI</kbd> <kbd><img src="https://cdn.simpleicons.org/discord" width="15" height="15" /> discord.py</kbd> <kbd><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="15" height="15" /> Java Swing</kbd> |
