@@ -11,7 +11,7 @@
   <kbd><img src="https://cdn.simpleicons.org/python" width="16" height="16" /> Python</kbd>
   <kbd><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="16" height="16" /> Java</kbd>
   <kbd><img src="https://cdn.simpleicons.org/html5" width="16" height="16" /> HTML5</kbd>
-  <kbd><img src="https://cdn.simpleicons.org/css3" width="16" height="16" /> CSS3</kbd>
+  <kbd><img src="https://cdn.simpleicons.org/css/1572B6" width="16" height="16" /> CSS3</kbd>
 </p>
 
 ### Frameworks
