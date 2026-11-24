@@ -2,9 +2,9 @@
 
 2nd Year IT student and backend developer. I design relational databases, build REST APIs, and develop automation tools.
 
-💻 **What I Do:** Building scalable backend systems and relational database architectures.
+**What I Do:** Building scalable backend systems and relational database architectures.
 
-🚀 **Currently Exploring:** Full-stack web development, system design, and data structures.
+**Currently Exploring:** Full-stack web development, system design, and data structures.
 
 ### Tech Stack
 
