@@ -7,12 +7,11 @@ IT student and backend developer based in the Philippines. I build REST APIs, re
 **Currently Exploring:** Full-stack web development, system design, and data structures.
 
 ### Tech Stack
-### Tech Stack
 
 * **Languages:** Python, Java, SQL, HTML, CSS
 * **Frameworks & Libraries:** FastAPI, discord.py, Java Swing
 * **Databases:** MySQL, SQLite
-* **Tools:** Git, Docker, VS Code, Eclipse
+* **Tools:** Git, VS Code, Eclipse
 
 ### Contact
 * **Email:** vonbas26@gmail.com
