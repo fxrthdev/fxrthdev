@@ -30,7 +30,7 @@
 ### Tools
 <p>
   <kbd><img src="https://cdn.simpleicons.org/git" width="16" height="16" /> Git</kbd>
-  <kbd><img src="https://cdn.simpleicons.org/visualstudiocode" width="16" height="16" /> VS Code</kbd>
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="16" height="16" /> VS Code</kbd>
   <kbd><img src="https://cdn.simpleicons.org/eclipseide/67519E" width="16" height="16" /> Eclipse</kbd>
 </p>
 
