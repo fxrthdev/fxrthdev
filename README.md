@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Von 👋
 
-<!--
-**fxrthdev/fxrthdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student and backend developer based in the Philippines. I build REST APIs, relational databases, and automation bots.
 
-Here are some ideas to get you started:
+**What I Do:** Building scalable backend systems and relational database architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Exploring:** Full-stack web development, system design, and data structures.
+
+### Tech Stack
+### Tech Stack
+
+* **Languages:** Python, Java, SQL, HTML, CSS
+* **Frameworks & Libraries:** FastAPI, discord.py, Java Swing
+* **Databases:** MySQL, SQLite
+* **Tools:** Git, Docker, VS Code, Eclipse
+
+### Contact
+* **Email:** your.email@example.com
