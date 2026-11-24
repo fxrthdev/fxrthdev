@@ -1,6 +1,6 @@
 ## Hi, I'm Von 👋
 
-IT student and backend developer based in the Philippines. I build REST APIs, relational databases, and automation bots.
+2nd Year IT student and backend developer. I build REST APIs, relational databases, and automation bots.
 
 **What I Do:** Building scalable backend systems and relational database architectures.
 
